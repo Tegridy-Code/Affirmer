@@ -8,7 +8,7 @@
 
 ***
 
-### Pseudo-AI demo that showcases the abilities and advantages of the proposed AI architecture
+### Pseudo-AI demo that showcases the abilities and advantages of the proposed AI architecture is available here:
 
 ### https://github.com/asigalov61/AffirMIDI-Piano
 
